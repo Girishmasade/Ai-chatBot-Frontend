@@ -1,0 +1,6 @@
+{
+  "name": "GoChat AI",
+  "description": "A premium AI content generation platform featuring chat, image generation, business plan generator, and advanced admin controls, styled in a luxurious Black Amber theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
